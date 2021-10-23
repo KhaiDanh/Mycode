@@ -5,4 +5,7 @@ void main()
 	printf("Hello guys\n");
 	return;
 )
-
+void sub() 
+{
+	return NULL;
+}
